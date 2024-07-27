@@ -9,7 +9,7 @@ permissions:
 
 env:
   resourceGroupName: rg-praivesi
-  resourceGroupLocation: koreacentral
+  resourceGroupLocation: koreaCentral
 
 jobs:
   lint:
